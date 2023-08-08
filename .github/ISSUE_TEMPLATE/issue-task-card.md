@@ -1,0 +1,18 @@
+---
+name: Issue Task Card
+about: Issue Task Card
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+### 만들고자 하는 기능이 무엇인가?
+예) Todo 생성 기능
+
+### 해당 기능을 구현하기 위해 할 일이 무엇인가요?
+[ ] 일 1
+[ ] 일 2
+[ ] 일 3
+### 예상 작업 시간
+예) 2주
